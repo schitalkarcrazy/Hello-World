@@ -1,2 +1,4 @@
 # Hello-World
-Repository created to understand Github and flow
+Hello , Guys !
+Lets begin the war !
+SC here, like to write programs in C++.
